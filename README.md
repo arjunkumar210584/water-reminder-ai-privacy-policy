@@ -6,7 +6,7 @@ Last updated: 12 October 2026
 
 Water Reminder AI is an offline-first hydration app. There is no account and no login. This policy explains what stays on your device and what is sent only if you turn an optional feature on.
 
-Contact: support@waterreminder.ai
+Contact: arjunkumar210584@gmail.com
 
 ## Data stored on your device
 
@@ -69,4 +69,4 @@ If this policy changes, the updated text will be posted at this page with a new 
 
 ## Contact
 
-Questions about this policy: support@waterreminder.ai
+Questions about this policy: arjunkumar210584@gmail.com
